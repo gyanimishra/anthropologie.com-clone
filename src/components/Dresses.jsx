@@ -49,6 +49,7 @@ const Dresses = () => {
       newdress = AllData.cloths.sort((a, b) => (b.title > a.title ? 1 : -1));
     }
     setdress([...newdress]);
+    a
   };
   return (
     <div className='clothmain'>
