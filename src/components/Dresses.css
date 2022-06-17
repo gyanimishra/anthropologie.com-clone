@@ -1,0 +1,123 @@
+.clothmain{
+  
+    width: 92%;
+    margin: auto;
+    height: fit-content;
+}
+.cloth1{
+    display: flex;
+    width: 100%;
+    height: 160px;
+    gap: 20px;
+    margin-top: 40px;
+}
+#cloth1child{
+    width: 25%;
+    height:160px;
+}
+#cloth1child>img{
+    width: 100%;
+    height: 100%;
+}
+
+#cloth2{
+  
+    width: 100%;
+    height: fit-content;
+  
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+#cloth2child1{
+    width: 20%;
+    height: 1500px;
+}
+#cloth2child2{
+    width: 80%;
+    height: fit-content;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    gap: 20px;
+    box-sizing: border-box;
+    position: relative;
+}
+.help{
+   
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+    position: relative;
+    cursor: pointer;
+}
+.help>img{
+  
+    width: 100%;
+    height: 100%;
+}
+#sorting{
+    
+  
+    width: 100%;
+    height: 100px;
+    display: flex;
+   
+
+}
+#sorting>h2{
+   margin-left: 22%;
+}
+#sort1{
+    width: 22%;
+    height: 100px;
+
+}
+#sort2{
+  
+    width: 80%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#type{
+    display: flex;
+    gap: 20px;
+ }
+ 
+   
+   select {
+     outline: none;
+   }
+   
+ 
+ 
+ #orderbtn:hover{
+     transform: scale(1.2);
+     background-color: green;
+     color: white;
+     border: none;
+ }
+ #type>button{
+     width: 70px;
+     height: 35px;
+     color: white;
+     background-color: rgba(0, 255, 200, 0.418);
+     border: none;
+     border-radius: 5px;
+ }
+ #rating{
+     display: flex;
+ }
+ #rating>h3{
+     background-color: rgb(75, 177, 75);
+     color: #fff;
+     border-radius: 4px;
+     width: 40px;
+     text-align: center;
+     margin-left: 30px;
+     margin-bottom: 15px;
+ }

@@ -1,0 +1,23 @@
+.clothmain{
+    border: 1px solid red;
+    width: 92%;
+    margin: auto;
+    height: 900px;
+}
+.cloth1{
+    display: flex;
+    width: 100%;
+    height: 160px;
+    border: 1px solid green;
+    gap: 20px;
+    margin-top: 40px;
+}
+#cloth1child{
+    width: 25%;
+    height:160px;
+    border: 1px solid black;
+}
+#cloth1child>img{
+    width: 100%;
+    height: 100%;
+}

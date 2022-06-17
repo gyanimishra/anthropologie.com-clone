@@ -1,0 +1,192 @@
+
+*{
+    box-sizing: border-box;
+}
+
+#home-1div-ad{
+    width: 92%;
+    height: 80px;
+    margin: auto;
+    margin-top: 40px;
+}
+#home-1div-ad>img{
+    width: 100%;
+    height: 100%;
+}
+#home-1div-ad2{
+    width: 92%;
+    height: 590px;
+    margin: auto;
+    margin-top: 40px;
+}
+#home-1div-ad2>img{
+    width: 100%;
+    height: 100%;
+}
+#home-1div-ad3{
+    width: 92%;
+    height: 1800px;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+#home-1div-ad3-child1{
+    width: 60%;
+    height: 1800px;
+    justify-content: space-between;
+}
+#home-1div-ad3-child2{
+    width: 40%;
+    height: 1800px;
+display: flex;
+flex-direction: column;
+gap: 36px;
+  
+}
+#home-1div-ad3-child2imgdiv{
+    width: 100%;
+    height: 420px;
+}
+#home-1div-ad3-child2imgdiv>img{
+    width: 100%;
+    height: 100%;
+}
+#home-1div-ad3-child1imgdiv1{
+    width: 100%;
+    height: 540px;
+}
+#home-1div-ad3-child1imgdiv1>img{
+    width: 100%;
+    height: 100%;
+}
+#home-1div-ad3-child1imgdiv2{
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+}
+#home-1div-ad3-child1imgdiv2child{
+width: 100%;
+height: 540px;
+}
+#home-1div-ad3-child1imgdiv3{
+    width: 100%;
+    height: 630px;
+    margin-top: 40px;
+}
+#home-1div-ad4{
+    width: 92%;
+    height: 1000px;
+    margin: auto;
+    margin-top: 150px;
+}
+#explore{
+    color: #63636b;
+    font-weight: lighter;
+    font-stretch: normal;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-family: "Spectral Extra Light", serif;
+    /* margin-bottom: 10px; */
+    text-align: center;
+}
+#home-1div-ad4child{
+    width: 100%;
+    height: 610px;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+#home-1div-ad4child1{
+    width: 40%;
+    height: 390px;
+}
+#home-1div-ad4child1>img{
+    width: 100%;
+    height: 100%;
+}
+.atag > a{
+    color: #167a92;
+    font: 0.7rem/1.3 Avenir Book,sans-serif;
+    letter-spacing: .06rem;
+}
+.atag > a:hover{
+    text-decoration: none;
+   
+}
+.little{
+    font-family: "Abel", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 50;
+    margin-top: 20px;
+    color: #63636b;
+    font-weight: lighter;
+}
+.h4div > h4{
+    font-family: "Abel", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 50;
+    margin-top: 20px;
+    color: #63636b;
+    font-weight: lighter;
+}
+.h4div > h4{
+    font-size: 0.99rem;
+}
+.about{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-bottom: 1px solid #e3e3e9
+}
+.about > div > h2{
+    font-family: 'Abel', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: .06rem;
+    font-weight: 600;
+    font-size: large;
+}
+.about > div > h4{
+    font: 0.8rem/1.3 Avenir Book,sans-serif;
+    letter-spacing: .06rem;
+}
+#home-1div-ad51{
+    width: 92%;
+    height: 500px;
+    margin: auto;
+    margin-top: 40px;
+  
+    box-sizing: border-box;
+}
+#home-1div-ad5{
+    width: 100%;
+    height: 400px;
+    margin: auto;
+    /* margin-top: 40px; */
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    
+}
+#home-1div-ad5div{
+    width: 30%;
+    height: 370px;
+   
+}
+#home-1div-ad5div>img{
+    width: 100%;
+    height: 100%;
+    
+}
+#home-1div-ad51p{
+    color: #63636b;
+    font-weight: lighter;
+    font-stretch: normal;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-family: "Spectral Extra Light", serif;
+ 
+    
+}
