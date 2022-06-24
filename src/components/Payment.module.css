@@ -6,18 +6,15 @@
      top:23px;
      right: 47px;
 }
-.paymentorderSummary{
+.orderSummary{
     font-family: 'Nanum Gothic', sans-serif;
     font-size: 20px;
-    margin: 30;
+    margin: 0;
 }
-.contactorderInfo>p{
+.orderInfo>p{
     font-size: 14px;
     margin:2px;
     color: #5c5c5f;
-    border: 1px solid #4b5666;
-    padding: 9px;
-    margin-top: 12px;
 }
 .button{
     width: 100%;
@@ -35,7 +32,29 @@
     background-color: white;
     border: 1px solid #4b5666;
 }
+.payPal{
+    border: 1px solid black;
+    padding: 9px;
+    margin-top: 9px;
+    border-radius: 5px;
+    cursor: pointer;
+}
 
+.applyBtn{
+    color:#4b5666;
+    background-color: white;
+    border: 1px solid #4b5666;
+    width: 30%;
+    height: 40px;
+    font-family: 'Roboto', sans-serif;
+    margin-left:20px
+
+}
+.applyBtn:hover{
+    background-color: #4b5666;
+    color:white;
+    border: 1px solid #4b5666;
+}
 .promoCode{
     width: 60%;
     height: 40px;

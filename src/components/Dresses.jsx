@@ -8,22 +8,34 @@ console.log(AllData);
 
 const Dresses = () => {
   const [dress, setdress] = useState([]);
-  {sort 
-    ? data.filter((ele)=>ele.rating>sort)
-    .sort((a,b)=>a.rating-b.rating)
-    .map((item,index)=><RestaurentCard key={index}  {...item}/>):
-    type 
-    ? data.filter((ele)=>ele.payment_methods[type]===true)
-    .map((item,index)=><RestaurentCard key={index}  {...item}/>):
-    Price ==="h2l"
-    ? data.sort((a,b)=>b.total_cost-a.total_cost)
-    .map((item,index)=><RestaurentCard key={index}  {...item}/>):
-    Price ==="l2h"
-    ? data.sort((a,b)=>a.total_cost-b.total_cost)
-    .map((item,index)=><RestaurentCard key={index}  {...item}/>):
-    data.map((item,index)=>(
-         <RestaurentCard key={index} {...item}/>
-     ))}
+  const filterProducts = (filterType) => {
+    // console.log(filterType);
+    switch (filterType) {
+      case "feature":
+        break;
+      case "price_lToh":
+        sortByPrice("price_lToh");
+        break;
+      case "price_hTol":
+        sortByPrice("price_hTol");
+        break;
+      case "newest":
+        break;
+      case "bestselling":
+        break;
+      case "rating_hTol":
+        break;
+      case "aToz":
+        sortByTitle("aToz");
+        break;
+      case "zToa":
+        sortByTitle("zToa");
+        break;
+      default:
+        break;
+    }
+  };
+
   const sortByPrice = (priceSortType) => {
     let newdress = [];
     if (priceSortType === "price_lToh") {
@@ -49,7 +61,6 @@ const Dresses = () => {
       newdress = AllData.cloths.sort((a, b) => (b.title > a.title ? 1 : -1));
     }
     setdress([...newdress]);
-    a
   };
   return (
     <div className='clothmain'>
