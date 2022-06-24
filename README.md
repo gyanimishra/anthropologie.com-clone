@@ -1,5 +1,13 @@
 # Anthrology.com
 My Individual  Project for construct week.
+
+### Quick Preview -https://anthropology-clone-gyan.netlify.app/
+
+### Live Demo - 
+
+https://drive.google.com/file/d/1GhOChXcSaAg6LMwzOlvP_db5pskVzU_S/view?usp=sharing
+
+
 <a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://www.reviewsxp.com/blog/wp-content/uploads/2020/05/Anthropologie-850x491.png)</a>
 <a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
 <a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://htmlburger.com/blog/wp-content/uploads/2021/08/Checkout-Page-Design-Anthropologie.gif)</a>
@@ -42,7 +50,7 @@ We have tried our best to make a fully-functional clone of Anthrology.com websit
 
  
  Click the link to view project: 
- <a href="https://app.netlify.com/teams/gyan12082000/overview">Anthrology.com</a>
+ <a href="https://anthropology-clone-gyan.netlify.app/">Anthrology.com</a>
   
 ## Lessons Learned
 
