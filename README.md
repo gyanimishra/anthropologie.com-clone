@@ -2,12 +2,16 @@
 My Individual  Project for construct week.
 
 <a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
-<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
-<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
-<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
-<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
-<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
-<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://wwd.com/wp-content/uploads/2021/04/Anthropologie-window.jpg)</a>
+
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://i.pinimg.com/736x/1f/46/1a/1f461ae7a7f53b618e47c7580f18b613--feature-walls-visual-merchandising.jpg)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://www.reviewsxp.com/blog/wp-content/uploads/2020/05/Anthropologie-850x491.png)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://effortlesslywithroxy.com/wp-content/uploads/2013/08/2013-08-21_1051.png)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://htmlburger.com/blog/wp-content/uploads/2021/08/Checkout-Page-Design-Anthropologie.gif)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://uploads-ssl.webflow.com/60b9163c2d1b232df1b62c17/60d61d241ce0a92a6fb8ac70_Anthropologie%20Before%202.%20Sweater.jpg)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://i.stack.imgur.com/gzPwa.jpg)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://media.gettyimages.com/vectors/log-in-and-sign-up-ui-ux-on-light-background-vector-id1300294058?s=612x612)</a>
+
 
 
 We have tried our best to make a fully-functional clone of Anthrology.com website that provides a minimal user experience where users can roam around and purchase their desired products.
