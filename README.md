@@ -2,6 +2,13 @@
 My Individual  Project for construct week.
 
 <a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
+<a href="https://app.netlify.com/teams/gyan12082000/overview">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4s3Dg2Q7uOp5voROglz6zmWSEbLmLgnXkHA&usqp=CAU)</a>
+
 
 We have tried our best to make a fully-functional clone of Anthrology.com website that provides a minimal user experience where users can roam around and purchase their desired products.
 
